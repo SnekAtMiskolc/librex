@@ -53,6 +53,12 @@
               "tor": null,
               "i2p": null,
               "country": "RO"
+          },
+          {
+              "clearnet": "https://librex.smlan.dev",
+              "tor": null,
+              "i2p": null,
+              "country": "HU"
           }
     ]
 }
